@@ -4,7 +4,7 @@ import pandas as pd
 
 # Define sector ETFs (you can add more)
 sector_etfs = {
-    'S&P 500': 'SPY'
+    'S_P 500': 'SPY'
     'NASDAQ': 'NDAQ'
     'DOW Jones': 'DJI'
     'Technology': 'XLK',
